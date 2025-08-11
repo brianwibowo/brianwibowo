@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a final-year Informatics student at Universitas Negeri Semarang, specializing in Intelligent Systems and Data Science. I have strong programming skills in Python, with hands-on experience using machine learning frameworks like TensorFlow and Scikit-Learn for developing AI solutions. I have led a computer vision project to create a smart CCTV system for crime detection using deep learning, demonstrating my ability to build and deploy models for real-world applications. Additionally, I am proficient in data analytics and visualization tools, such as Tableau and Streamlit, to transform complex data into actionable insights.
+I am a final-year Informatics student at Universitas Negeri Semarang, specializing in Deep Learning, as well as Website and Mobile App Development. I am the founder of a technology company named PT. Vuriko Developer Studio that delivers innovative IT solutions. For the past two years, I have been an active member of an AI research group, gaining extensive experience and contributing to various projects. My works and expertise are documented in journal articles, my LinkedIn profile, and my company’s portfolio. My ultimate goal is to become a leading figure in Indonesia’s IT industry, leveraging technology to help people achieve their dreams.
 
 
 ## 🌐 Socials:
